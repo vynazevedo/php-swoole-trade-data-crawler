@@ -43,7 +43,7 @@ src/
 └── Infrastructure/  # Implementações externas
 ```
 
-## 💻 Uso
+## Uso
 
 ```php
 use App\Application\UseCase\CrawlWebsiteUseCase;
